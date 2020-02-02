@@ -95,16 +95,16 @@ h2 {
     display: inline-block;
     font-size: 3rem;
 
-    color: #2998FF;
+    color: rgb(231, 89, 45);
     font-size: 1.6rem;
     text-decoration: none;
-    border-bottom: 1px solid #2998FF;
+    border-bottom: 1px solid rgb(231, 89, 45);
     padding: 3px;
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease;
 
     &:hover {
-        background-color: #2998FF;
+        background-color: rgb(231, 89, 45);
         color: #FFF;
         border-bottom: 1px solid #FFF;
     }
